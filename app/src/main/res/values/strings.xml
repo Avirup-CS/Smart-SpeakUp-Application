@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Smart SpeakUp</string>
+    <string name="user_name">Name: %1$s</string>
+    <string name="user_email">Email: %1$s</string>
+    <string name="user_mobile">Mobile: %1$s</string>
+    <string name="error_parsing">Error parsing response!</string>
+    <string name="error_fetching">Failed to fetch user details. Please try again.</string>
+    <string name="user_not_found">User not found</string>
+    <string name="invalid_user_id">Invalid user ID</string>
+    <string name="about_app">Welcome to Our App!
+
+Our app is your personal guide to improving English grammar and speaking skills. Whether you’re a beginner or aiming to refine your language abilities, this app is designed to help you communicate confidently and effectively.
+
+How it Works:
+
+1.Speak to the App: Using your phone’s microphone, you can speak directly to the app. Say sentences, phrases, or even have free-form conversations in English.
+2.Speech Analysis: The app carefully listens to your input, identifies grammatical errors, and notes any pronunciation issues.
+3.Instant Feedback: Once your speech is processed, the app highlights your mistakes and provides corrected versions in proper English.
+4.Learn and Improve: Along with corrections, the app offers explanations and tips, helping you understand your mistakes and improve over time.
+
+Why Use This App?
+Our primary goal is to make language learning simple, interactive, and effective. With regular practice:
+
+   You’ll improve your grammar and pronunciation.
+   You’ll develop confidence in speaking English.
+   You’ll receive constructive feedback tailored to your needs.
+Whether you’re preparing for interviews, presentations, or everyday conversations, this app is a reliable companion for your learning journey.
+
+Start Today:
+Speaking is the key to mastering any language. Use the app daily, learn from your mistakes, and watch your English improve with every session.
+
+Make English learning fun, easy, and accessible. Let’s help you speak with clarity and confidence!</string>
+
+    <string name="feedback_header">Feedback!</string>
+    <string name="email_hint">Your Email Address</string>
+    <string name="query_hint">Write your query or feedback here...</string>
+    <string name="submit_button">Submit</string>
+    <string name="back">BACK</string>
+
+</resources>

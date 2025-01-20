@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bb"
+    android:padding="16dp">
+
+    <!-- ScrollView to make the bot's response scrollable -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <TextView
+            android:id="@+id/bot_response"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#33E0E0E0"
+            android:overScrollMode="always"
+            android:padding="12dp"
+            android:scrollbars="vertical"
+            android:text="Hello! I am your Assistant today. Please tell me about yourself."
+            android:textColor="#FFFFFF"
+            android:textSize="16sp" />
+    </ScrollView>
+
+    <!--    <EditText-->
+    <!--        android:id="@+id/user_input"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:hint="Type your message here..."-->
+    <!--        android:padding="8dp"-->
+    <!--        android:background="@android:drawable/edit_text"-->
+    <!--        android:textColor="#000"-->
+    <!--        android:layout_marginTop="8dp"-->
+    <!--        android:layout_marginBottom="8dp"-->
+    <!--        android:inputType="text" />-->
+
+    <!-- Send Button -->
+
+    <!-- Record Button -->
+    <Button
+        android:id="@+id/record_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Recording"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@android:color/holo_green_light"
+        android:background="@drawable/background"
+        android:textColor="#FFF" />
+
+    <!-- Stop Recording Button -->
+    <Button
+        android:id="@+id/stop_recording_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stop Recording"
+        android:background="@drawable/background"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="#F44B4B"
+        android:textColor="#FFF"
+        android:visibility="visible" />
+    <Button
+        android:id="@+id/exit_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="end"
+        android:background="@drawable/background"
+        android:padding="12dp"
+        android:drawableStart="@drawable/ic_back"
+        android:backgroundTint="#8D47F0"
+        android:textColor="#FFF" />
+
+</LinearLayout>

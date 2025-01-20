@@ -1,0 +1,84 @@
+{
+  "vocabularyquestions": [
+    {
+      "question": "Fill in the blank: I ______ down for an hour every afternoon.",
+      "answer1": "A) lied",
+      "answer2": "B) lye",
+      "answer3": "C) lie",
+      "answer4": "D) lay",
+      "correct": "D) lay"
+    },
+    {
+      "question": "Choose the correct statement:",
+      "answer1": "A) Please turn on the light.",
+      "answer2": "B) Please shut the light.",
+      "answer3": "C) Please open the light.",
+      "answer4": "D) Please shut down the light.",
+      "correct": "A) Please turn on the light."
+    },
+    {
+      "question": "Choose the correct statement:",
+      "answer1": "A) I had a strange dream last night.",
+      "answer2": "B) I got a strange dream last night.",
+      "answer3": "C) I saw a strange dream last night.",
+      "answer4": "D) I faced a strange dream last night.",
+      "correct": "A) I had a strange dream last night."
+    },
+    {
+      "question": "Choose the correct statement:",
+      "answer1": "A) He tore the letter in anger.",
+      "answer2": "B) He teared up the letter in anger.",
+      "answer3": "C) He tore up the letter in anger.",
+      "answer4": "D) He teared the letter in anger.",
+      "correct": "C) He tore up the letter in anger."
+    },
+    {
+      "question": "When a word ends with \"y\", and the letter before \"y\" is a consonant; for the various other forms of the word, \"y\" is replaced with:",
+      "answer1": "A) ie",
+      "answer2": "B) Oi",
+      "answer3": "C) eng",
+      "answer4": "D) e",
+      "correct": "A) ie"
+    },
+    {
+      "question": "Choose the correct statement:",
+      "answer1": "A) It is dirty, give it away.",
+      "answer2": "B) It is dirty, throw it.",
+      "answer3": "C) It is dirty, throw it away.",
+      "answer4": "D) It is dirty, give it.",
+      "correct": "C) It is dirty, throw it away."
+    },
+    {
+      "question": "Which of these words is correct?",
+      "answer1": "A) Bereau",
+      "answer2": "B) Beaurau",
+      "answer3": "C) Bureau",
+      "answer4": "D) Bureu",
+      "correct": "C) Bureau"
+    },
+    {
+      "question": "Choose the correct statement:",
+      "answer1": "A) I should take more exercise.",
+      "answer2": "B) I should have more exercise.",
+      "answer3": "C) I should make more exercise.",
+      "answer4": "D) I should give more exercise.",
+      "correct": "A) I should take more exercise."
+    },
+    {
+      "question": "Fill in the blank: My watch is five minutes ______.",
+      "answer1": "A) slow",
+      "answer2": "B) early",
+      "answer3": "C) before",
+      "answer4": "D) behind",
+      "correct": "D) behind"
+    },
+    {
+      "question": "Fill in the blank: The thief has ______ all my belongings.",
+      "answer1": "A) robbed",
+      "answer2": "B) taken",
+      "answer3": "C) stolen",
+      "answer4": "D) taken away",
+      "correct": "C) stolen"
+    }
+  ]
+}

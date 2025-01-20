@@ -1,0 +1,84 @@
+{
+  "tensequestions": [
+    {
+      "question": "Fill in with past perfect tense: I ______ my homework when my uncle arrived.",
+      "answer1": "A) was completing",
+      "answer2": "B) completed",
+      "answer3": "C) had been completing",
+      "answer4": "D) had completed",
+      "correct": "D) had completed"
+    },
+    {
+      "question": "The statement 'I have written a letter' belongs to which of these tenses?",
+      "answer1": "A) Present perfect tense",
+      "answer2": "B) Present perfect continuous tense",
+      "answer3": "C) Simple present tense",
+      "answer4": "D) Present continuous tense",
+      "correct": "A) Present perfect tense"
+    },
+    {
+      "question": "Which of these is an example of simple present tense?",
+      "answer1": "A) I am going to Delhi tomorrow.",
+      "answer2": "B) There she goes!",
+      "answer3": "C) He has just gone out.",
+      "answer4": "D) I am reading the gita.",
+      "correct": "B) There she goes!"
+    },
+    {
+      "question": "To which of these tenses does the following statement belong? We were watching television all day.",
+      "answer1": "A) Past perfect tense",
+      "answer2": "B) Simple past tense",
+      "answer3": "C) Past perfect continuous tense",
+      "answer4": "D) Past continuous tense",
+      "correct": "D) Past continuous tense"
+    },
+    {
+      "question": "Choose the correct statement:",
+      "answer1": "A) I should take more exercise.",
+      "answer2": "B) I should have more exercise.",
+      "answer3": "C) I should make more exercise.",
+      "answer4": "D) I should give more exercise.",
+      "correct": "A) I should take more exercise."
+    },
+    {
+      "question": "Fill in the blank: My watch is five minutes ______.",
+      "answer1": "A) slow",
+      "answer2": "B) early",
+      "answer3": "C) before",
+      "answer4": "D) behind",
+      "correct": "D) behind"
+    },
+    {
+      "question": "Fill in the blank: The thief has ______ all my belongings.",
+      "answer1": "A) robbed",
+      "answer2": "B) taken",
+      "answer3": "C) stolen",
+      "answer4": "D) taken away",
+      "correct": "C) stolen"
+    },
+    {
+      "question": "Choose the correct statement:",
+      "answer1": "A) I was a student for over three years now.",
+      "answer2": "B) I am a student for over three years now.",
+      "answer3": "C) I have been a student for over three years now.",
+      "answer4": "D) I am being a student for over three years now.",
+      "correct": "C) I have been a student for over three years now."
+    },
+    {
+      "question": "Which of these statements belongs to perfect continuous tense?",
+      "answer1": "A) I shall be writing",
+      "answer2": "B) I was loving",
+      "answer3": "C) I had been writing",
+      "answer4": "D) I had written",
+      "correct": "C) I had been writing"
+    },
+    {
+      "question": "Which of these statements belong to present continuous tense (plural)?",
+      "answer1": "A) They were writing a letter.",
+      "answer2": "B) She is writing a letter.",
+      "answer3": "C) We are writing a letter.",
+      "answer4": "D) We were writing a letter.",
+      "correct": "C) We are writing a letter."
+    }
+  ]
+}

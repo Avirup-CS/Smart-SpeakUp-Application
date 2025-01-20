@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_ai_api_key">Your_gemini_API_Key</string>
+    <string name="assembly_ai_api_key">Your_Assembly_ai_api</string>
+</resources>

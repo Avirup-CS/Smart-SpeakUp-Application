@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/bb"
+    android:gravity="center">
+
+    <!-- Display the bot's response -->
+    <EditText
+        android:id="@+id/role_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="Interviewer"
+        android:hint="Enter your role"
+        android:background="@drawable/background"
+        android:textColorHint="@color/grey"
+        android:padding="9dp"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:minHeight="48dp" />
+
+    <Button
+        android:id="@+id/continue_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Continue"
+        android:layout_margin="10dp"
+        android:background="@drawable/background"
+        />
+
+    <Button
+        android:id="@+id/spback_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BACK"
+        android:drawableStart="@drawable/ic_back"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/background"
+        />
+
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/bb">
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/feedback_header"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#00B2FF"
+        android:gravity="center"
+        android:padding="16dp" />
+
+    <EditText
+        android:id="@+id/email_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/email_hint"
+        android:inputType="textEmailAddress"
+        android:padding="12dp"
+        android:background="@drawable/rounded_corner"
+        android:textColor="@color/colorBlack" />
+
+    <EditText
+        android:id="@+id/query_input"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:hint="@string/query_hint"
+        android:gravity="top"
+        android:padding="12dp"
+        android:background="@drawable/rounded_corner"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/colorBlack"
+        android:inputType="textMultiLine" />
+
+    <!-- Horizontal layout for buttons -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="24dp">
+
+        <!-- Back button -->
+        <Button
+            android:id="@+id/backBtnFeedback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:text="Back"
+            android:background="@drawable/background"
+
+            android:drawableStart="@drawable/ic_back"
+            android:padding="10dp"
+            android:backgroundTint="@color/colorAccent"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:elevation="4dp" />
+
+        <!-- Submit button -->
+        <Button
+            android:id="@+id/submit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/submit_button"
+            android:background="@drawable/submit_button_background"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:padding="12dp"
+            android:elevation="4dp" />
+    </LinearLayout>
+</LinearLayout>

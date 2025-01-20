@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Adding gradient for a more vibrant look -->
+    <gradient
+        android:startColor="#73D7F0"
+        android:endColor="#CFE6C5"
+        android:angle="90"/>
+
+    <!-- Rounded corners -->
+    <corners android:radius="16dp"/>
+
+    <!-- Adding a shadow-like effect -->
+    <padding
+        android:left="4dp"
+        android:top="4dp"
+        android:right="4dp"
+        android:bottom="4dp"/>
+
+    <!-- Stroke for outlining -->
+    <stroke
+        android:width="2dp"
+        android:color="#4C5D3E"/>
+
+</shape>

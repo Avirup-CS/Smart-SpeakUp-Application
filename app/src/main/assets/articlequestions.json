@@ -1,0 +1,84 @@
+{
+  "articlequestions": [
+    {
+      "question": "Fill in the blank: Neha has left for ______ United States of America.",
+      "answer1": "A) to",
+      "answer2": "B) an",
+      "answer3": "C) a",
+      "answer4": "D) the",
+      "correct": "D) the"
+    },
+    {
+      "question": "What are a, an and the collectively called?",
+      "answer1": "A) Definite articles",
+      "answer2": "B) Indefinite articles",
+      "answer3": "C) Demonstrative adjectives",
+      "answer4": "D) Demonstrative adverbs",
+      "correct": "A) Definite articles"
+    },
+    {
+      "question": "Which if these belong to indefinite articles?",
+      "answer1": "A) A and the",
+      "answer2": "B) An and the",
+      "answer3": "C) A and an",
+      "answer4": "D) A",
+      "correct": "C) A and an"
+    },
+    {
+      "question": "Which of these is not an article?",
+      "answer1": "A) An",
+      "answer2": "B) The",
+      "answer3": "C) A",
+      "answer4": "D) This",
+      "correct": "D) This"
+    },
+    {
+      "question": "Find the correct statement.",
+      "answer1": "A) Sun rises in the east.",
+      "answer2": "B) The sun rises in the east.",
+      "answer3": "C) Sun rises in east.",
+      "answer4": "D) The sun rises in east.",
+      "correct": "B) The sun rises in the east."
+    },
+    {
+      "question": "Which of these belong to definite articles?",
+      "answer1": "A) A and an",
+      "answer2": "B) A and the",
+      "answer3": "C) The",
+      "answer4": "D) An and the",
+      "correct": "C) The"
+    },
+    {
+      "question": "Correct the incorrect statement: How gentle person Mr. Bhatia is!",
+      "answer1": "A) How gentle the person Mr. Bhatia is!",
+      "answer2": "B) How a gentle person Mr. Bhatia is!",
+      "answer3": "C) How gentle a person Mr. Bhatia is!",
+      "answer4": "D) How gentle person the Mr. Bhatia is!",
+      "correct": "C) How gentle a person Mr. Bhatia is!"
+    },
+    {
+      "question": "Fill in the blank: Bismillah Khan plays ______ shehnai with great skill.",
+      "answer1": "A) a",
+      "answer2": "B) an",
+      "answer3": "C) a or the",
+      "answer4": "D) the",
+      "correct": "A) a"
+    },
+    {
+      "question": "Fill in the blank with article: ______ child must respect his parents.",
+      "answer1": "A) That",
+      "answer2": "B) This",
+      "answer3": "C) A",
+      "answer4": "D) An",
+      "correct": "C) A"
+    },
+    {
+      "question": "Choose the correct statement.",
+      "answer1": "A) Her brother is an engineer.",
+      "answer2": "B) Her brother is engineer.",
+      "answer3": "C) Her brother is the engineer.",
+      "answer4": "D) Her brother is a engineer.",
+      "correct": "A) Her brother is an engineer."
+    }
+  ]
+}

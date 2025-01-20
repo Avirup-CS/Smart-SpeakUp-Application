@@ -1,0 +1,84 @@
+{
+  "prepositionquestions": [
+    {
+      "question": "Choose the correct statement:",
+      "answer1": "A) The hooligans broke into the factory.",
+      "answer2": "B) The hooligans broke at the factory.",
+      "answer3": "C) The hooligans broke in the factory.",
+      "answer4": "D) The hooligans broke onto the factory.",
+      "correct": "A) The hooligans broke into the factory."
+    },
+    {
+      "question": "Correct the incorrect statement: Why are our trains so late compared along European trains?",
+      "answer1": "A) Why are our trains so late compared by European trains?",
+      "answer2": "B) Why are our trains so late compared with European trains?",
+      "answer3": "C) Why are our trains so late compared on European trains?",
+      "answer4": "D) Why are our trains so late compared under European trains?",
+      "correct": "B) Why are our trains so late compared with European trains?"
+    },
+    {
+      "question": "Which of these adjectives takes the preposition with after it?",
+      "answer1": "A) Accused",
+      "answer2": "B) Drenched",
+      "answer3": "C) Absorbed",
+      "answer4": "D) Anxious",
+      "correct": "A) Accused"
+    },
+    {
+      "question": "Which of these verbs takes the preposition for after it?",
+      "answer1": "A) Mourn",
+      "answer2": "B) Beware",
+      "answer3": "C) Determine",
+      "answer4": "D) Delight",
+      "correct": "C) Determine"
+    },
+    {
+      "question": "Fill in the blank: The boy ______ brown hair stole my book.",
+      "answer1": "A) from",
+      "answer2": "B) in",
+      "answer3": "C) with",
+      "answer4": "D) below",
+      "correct": "C) with"
+    },
+    {
+      "question": "Which of these relations is not indicated by prepositions?",
+      "answer1": "A) Time",
+      "answer2": "B) Age",
+      "answer3": "C) Manner",
+      "answer4": "D) Place",
+      "correct": "B) Age"
+    },
+    {
+      "question": "Fill in the blank: He lives ______ Bezongbah ______ Nagpur.",
+      "answer1": "A) at, in",
+      "answer2": "B) at, on",
+      "answer3": "C) on, at",
+      "answer4": "D) in, at",
+      "correct": "D) in, at"
+    },
+    {
+      "question": "Which of these nouns takes the preposition for after it?",
+      "answer1": "A) Alliance",
+      "answer2": "B) Bargain",
+      "answer3": "C) Experience",
+      "answer4": "D) Ambition",
+      "correct": "D) Ambition"
+    },
+    {
+      "question": "Which of these is not a preposition of time and date?",
+      "answer1": "A) On",
+      "answer2": "B) At",
+      "answer3": "C) In",
+      "answer4": "D) With",
+      "correct": "D) With"
+    },
+    {
+      "question": "Fill in the blank: Aahna didn't reach her class ______ noon.",
+      "answer1": "A) till",
+      "answer2": "B) by",
+      "answer3": "C) at",
+      "answer4": "D) to",
+      "correct": "B) by"
+    }
+  ]
+}

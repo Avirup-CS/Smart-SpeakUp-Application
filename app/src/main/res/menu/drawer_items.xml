@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/grp1">
+        <item
+            android:id="@+id/navDashboard"
+            android:title="Dashboard"
+            android:icon="@drawable/dashboard"/>
+
+        <item
+            android:id="@+id/navProfile"
+            android:title="Profile"
+            android:icon="@drawable/profile"/>
+
+        <item
+            android:id="@+id/navChngPassword"
+            android:title="Change Pasword"
+            android:icon="@drawable/change_password"/>
+
+<!--        <item-->
+<!--            android:id="@+id/navSettings"-->
+<!--            android:title="Settings"-->
+<!--            android:icon="@drawable/settings"/>-->
+    </group>
+
+    <group android:id="@+id/grp2">
+        <item
+            android:id="@+id/navFeedback"
+            android:title="Feedback"
+            android:icon="@drawable/feedback"/>
+
+<!--        <item-->
+<!--            android:id="@+id/navTerms"-->
+<!--            android:title="Terms and Conditions"-->
+<!--            android:icon="@drawable/terms"/>-->
+
+<!--        <item-->
+<!--            android:id="@+id/navContact"-->
+<!--            android:title="Contact"-->
+<!--            android:icon="@drawable/contact"/>-->
+
+<!--        <item-->
+<!--            android:id="@+id/navShare"-->
+<!--            android:title="Share"-->
+<!--            android:icon="@drawable/share"/>-->
+    </group>
+
+    <group android:id="@+id/grp3">
+        <item
+            android:id="@+id/navLogout"
+            android:title="Logout"
+            android:icon="@drawable/logout"/>
+    </group>
+
+
+</menu>

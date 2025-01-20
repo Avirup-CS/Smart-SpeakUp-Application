@@ -1,0 +1,9 @@
+<TextView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textColor="@color/colorWhite"
+    android:background="@drawable/border"
+    android:drawableLeft="@drawable/ic_gender"
+    android:drawablePadding="10dp"
+    android:drawableTint="#FFFFFF"
+    android:ems="10" />
